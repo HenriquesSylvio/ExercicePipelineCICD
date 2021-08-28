@@ -1,0 +1,24 @@
+C:\Users\Henriques Sylvio\source\repos\ExercicePipelineCICD\ExercicePipelineCICD\bin\Debug\net5.0\ExercicePipelineCICD.deps.json
+C:\Users\Henriques Sylvio\source\repos\ExercicePipelineCICD\ExercicePipelineCICD\bin\Debug\net5.0\ExercicePipelineCICD.dll
+C:\Users\Henriques Sylvio\source\repos\ExercicePipelineCICD\ExercicePipelineCICD\bin\Debug\net5.0\ref\ExercicePipelineCICD.dll
+C:\Users\Henriques Sylvio\source\repos\ExercicePipelineCICD\ExercicePipelineCICD\bin\Debug\net5.0\ExercicePipelineCICD.pdb
+C:\Users\Henriques Sylvio\source\repos\ExercicePipelineCICD\ExercicePipelineCICD\obj\Debug\net5.0\ExercicePipelineCICD.csprojAssemblyReference.cache
+C:\Users\Henriques Sylvio\source\repos\ExercicePipelineCICD\ExercicePipelineCICD\obj\Debug\net5.0\ExercicePipelineCICD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henriques Sylvio\source\repos\ExercicePipelineCICD\ExercicePipelineCICD\obj\Debug\net5.0\ExercicePipelineCICD.AssemblyInfoInputs.cache
+C:\Users\Henriques Sylvio\source\repos\ExercicePipelineCICD\ExercicePipelineCICD\obj\Debug\net5.0\ExercicePipelineCICD.AssemblyInfo.cs
+C:\Users\Henriques Sylvio\source\repos\ExercicePipelineCICD\ExercicePipelineCICD\obj\Debug\net5.0\ExercicePipelineCICD.csproj.CoreCompileInputs.cache
+C:\Users\Henriques Sylvio\source\repos\ExercicePipelineCICD\ExercicePipelineCICD\obj\Debug\net5.0\ExercicePipelineCICD.dll
+C:\Users\Henriques Sylvio\source\repos\ExercicePipelineCICD\ExercicePipelineCICD\obj\Debug\net5.0\ref\ExercicePipelineCICD.dll
+C:\Users\Henriques Sylvio\source\repos\ExercicePipelineCICD\ExercicePipelineCICD\obj\Debug\net5.0\ExercicePipelineCICD.pdb
+C:\Users\Henriques Sylvio\source\repos\Nouveau dossier (2)\ExercicePipelineCICD\ExercicePipelineCICD\bin\Debug\net5.0\ExercicePipelineCICD.deps.json
+C:\Users\Henriques Sylvio\source\repos\Nouveau dossier (2)\ExercicePipelineCICD\ExercicePipelineCICD\bin\Debug\net5.0\ExercicePipelineCICD.dll
+C:\Users\Henriques Sylvio\source\repos\Nouveau dossier (2)\ExercicePipelineCICD\ExercicePipelineCICD\bin\Debug\net5.0\ref\ExercicePipelineCICD.dll
+C:\Users\Henriques Sylvio\source\repos\Nouveau dossier (2)\ExercicePipelineCICD\ExercicePipelineCICD\bin\Debug\net5.0\ExercicePipelineCICD.pdb
+C:\Users\Henriques Sylvio\source\repos\Nouveau dossier (2)\ExercicePipelineCICD\ExercicePipelineCICD\obj\Debug\net5.0\ExercicePipelineCICD.csprojAssemblyReference.cache
+C:\Users\Henriques Sylvio\source\repos\Nouveau dossier (2)\ExercicePipelineCICD\ExercicePipelineCICD\obj\Debug\net5.0\ExercicePipelineCICD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henriques Sylvio\source\repos\Nouveau dossier (2)\ExercicePipelineCICD\ExercicePipelineCICD\obj\Debug\net5.0\ExercicePipelineCICD.AssemblyInfoInputs.cache
+C:\Users\Henriques Sylvio\source\repos\Nouveau dossier (2)\ExercicePipelineCICD\ExercicePipelineCICD\obj\Debug\net5.0\ExercicePipelineCICD.AssemblyInfo.cs
+C:\Users\Henriques Sylvio\source\repos\Nouveau dossier (2)\ExercicePipelineCICD\ExercicePipelineCICD\obj\Debug\net5.0\ExercicePipelineCICD.csproj.CoreCompileInputs.cache
+C:\Users\Henriques Sylvio\source\repos\Nouveau dossier (2)\ExercicePipelineCICD\ExercicePipelineCICD\obj\Debug\net5.0\ExercicePipelineCICD.dll
+C:\Users\Henriques Sylvio\source\repos\Nouveau dossier (2)\ExercicePipelineCICD\ExercicePipelineCICD\obj\Debug\net5.0\ref\ExercicePipelineCICD.dll
+C:\Users\Henriques Sylvio\source\repos\Nouveau dossier (2)\ExercicePipelineCICD\ExercicePipelineCICD\obj\Debug\net5.0\ExercicePipelineCICD.pdb
