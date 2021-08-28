@@ -27,8 +27,5 @@ jobs:
       - name: Setup .NET
         uses: actions/setup-dotnet@v1
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-
       - name: Build with dotnet
         run: dotnet build --configuration Release
