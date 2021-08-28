@@ -43,7 +43,7 @@ namespace TestCalcul
         {
             double result = Calcul.Division(2, 1);
 
-            Assert.AreEqual(2, result);
+            Assert.AreEqual(2, result); 
         }
 
         [TestMethod]
