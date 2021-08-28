@@ -11,7 +11,7 @@ namespace TestCalcul
         {
             double result = Calcul.Addition(1.5, 2.5);
 
-            Assert.AreEqual(3, result);
+            Assert.AreEqual(4, result);
         }
 
         [TestMethod]
