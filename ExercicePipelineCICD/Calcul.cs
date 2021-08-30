@@ -11,7 +11,7 @@ namespace ExercicePipelineCICD
         }
 
         public static double Soustraction(double a, double b)
-        { 
+        {    
             return a - b;
         } 
          
