@@ -28,5 +28,6 @@ jobs:
           automatic_release_tag: ${{ github.run_number }}
           prerelease: false
           files: |
+            ExercicePipelineCICD/bin/Debug/net5.0/ExercicePipelineCICD.dll
             LICENSE.txt
             *.jar
