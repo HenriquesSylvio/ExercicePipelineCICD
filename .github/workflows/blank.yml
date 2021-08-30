@@ -21,10 +21,6 @@ jobs:
         run: dotnet build --no-restore
       - name: Test
         run: dotnet test --no-build --verbosity normal
-      - name: Delete
-        uses: ame-yu/action-delete-latest-release@v2
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
       - name: Create Release
         uses: "marvinpinto/action-automatic-releases@latest"
         with:
