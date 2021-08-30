@@ -17,7 +17,11 @@ namespace ExercicePipelineCICD
          
         public static double Division(double a, double b)
         {
-            return a / b;
+            if(a == 0 || b == 0)
+            {
+                throw new DivideByZeroException();
+            }
+             return a / b;
         }
 
         public static double Multiplication(double a, double b)
