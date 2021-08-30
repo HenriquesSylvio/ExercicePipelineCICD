@@ -22,7 +22,7 @@ jobs:
       - name: Test
         run: dotnet test --no-build --verbosity normal
       - name: Create Release
-        uses: "marvinpinto/action-automatic-releases@latest"
+        uses: "marvinpinto/action-automatic-releases@<VERSION>"
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "latest"
